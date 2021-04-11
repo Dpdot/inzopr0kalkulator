@@ -10,3 +10,8 @@ a = int(input())
 b = int(input())
 print(dodaj(a, b))
 
+print("koniec programu")
+
+def odejmij(a,b):
+    wynik = a - b
+    return wynik
