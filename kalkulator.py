@@ -1,6 +1,5 @@
-def dodaj():
-    a = int(input())
-    b = int(inpout())
-    print(a + b)
+def dodaj(a,b):
+    wynik = a + b
+    return wynik
     
 dodaj()
